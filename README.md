@@ -30,3 +30,4 @@
 
 如果想使用我的键位，详细请参考:https://github.com/itgoyo/Poker-for-Mac/issues
 
+![](/mac_shift.gif)
