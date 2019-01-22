@@ -6,7 +6,7 @@
 
 ![](/poker.jpeg)
 
-### 键盘键位修改过后布局
+### Vim键位修改过后布局
 
 ![](/poker_change.png)
 
@@ -26,5 +26,7 @@
 - 短按：切换输入法
 - 长按保持shift原本功能键
 
-如果想使用我的键位，详细请参考issue
+快速切换输入法的方式请看看我写到文档:https://github.com/itgoyo/Mac-Shift
+
+如果想使用我的键位，详细请参考:https://github.com/itgoyo/Poker-for-Mac/issues
 
