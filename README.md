@@ -1,6 +1,11 @@
 # Poker
 >在没有改键位软件之前我还想尝试买特别大键帽用来更好的区分功能键，现在好了有了软件辅助，根本不用花钱。
 
+
+### 键盘键位布局
+
+![](/poker.jpeg)
+
 ### Poker键盘改键
 
 已经使用了Karabinker改建
@@ -10,4 +15,4 @@
 然后`~/.config/karabiner/karabiner.json`把里面的right_command改成left_control即可把最左边的按键+hjk编程方向键
 
 如果想使用我的键位，详细请参考issue
- 
+
