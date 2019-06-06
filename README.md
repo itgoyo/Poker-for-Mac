@@ -31,3 +31,6 @@
 如果想使用我的键位，详细请参考:https://github.com/itgoyo/Poker-for-Mac/issues
 
 ![](/mac_shift.gif)
+
+### 注意
+在使用百度输入法的时候要把百度输入法的 shift 中英文切换功能去掉，只保留百度的中文输入法功能，这样子不管什么时候就可以使用 shift 实现中英文切换了。
